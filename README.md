@@ -4,6 +4,7 @@
 it's simple game.
 Player who write 0 goes first.
 Player who write X goes second.
+The first one, having lined up 3 of his pieces vertically, horizontally or diagonally, wins.
 ![first0](https://user-images.githubusercontent.com/73985106/117585892-bd776180-b136-11eb-975e-a04121aa9582.jpg)
 ![game](https://user-images.githubusercontent.com/73985106/117585891-bbad9e00-b136-11eb-8b65-2e054827a94d.jpg)
 
